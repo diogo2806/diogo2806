@@ -24,7 +24,7 @@ No passado, servi como Sargento no Exército Brasileiro, onde adquiri habilidade
 
 ## 📫 Como entrar em contato comigo
 
-Você pode me enviar uma mensagem pelo WhatsApp no número +55 21 96708-1952 ou me enviar um e-mail para diogo.01501@gmail.com. Fique à vontade para conferir meus cursos na [Alura](https://cursos.alura.com.br/user/diogo-01501) ou os meus projetCom base nas informações do seu currículo, aqui está uma sugestão de como você pode melhorar seu README no GitHub:
+Você pode me alcançar via [WhatsApp](wa.me/5521967081952) ou me enviar um e-mail para diogo.01501@gmail.com. Fique à vontade para conferir meus cursos na [Alura](https://cursos.alura.com.br/user/diogo-01501) ou os meus projetCom base nas informações do seu currículo, aqui está uma sugestão de como você pode melhorar seu README no GitHub:
 
 Como pessoa com deficiência (PCD, CID-10 H54.4), acredito fortemente na diversidade e inclusão no ambiente de trabalho. Estou sempre em busca de oportunidades desafiadoras para aplicar minhas habilidades e contribuir para soluções inovadoras.
 
