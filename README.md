@@ -19,6 +19,6 @@ Aqui estão alguns dos projetos mais recentes em que tenho trabalhado:
 
 ## 📫 Como me contatar
 
-Estou aberto a oportunidades de colaboração e novos projetos. Você pode me alcançar via [WhatsApp](wa.me/5521967081952) ou pelo email diogo.01501@gmail.com.
+Estou aberto a oportunidades de colaboração e novos projetos. Você pode me alcançar via [WhatsApp](https://wa.me/5521967081952) ou pelo email diogo.01501@gmail.com.
 
 Obrigado por visitar o meu perfil!
