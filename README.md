@@ -1,6 +1,6 @@
-# Olá, sou o Diogo Santos :wave:
+# Olá, sou o Diogo Santos 👋 :wave:
 
-Sou um desenvolvedor Java experiente, com proficiência em Spring Framework, Microsserviços, PostgreSQL e AWS. Trabalho atualmente como Especialista em Operações Portuárias na Sepetiba Tecon - CSN, onde lidero projetos de Power Apps e Power Automate, além de ter adquirido uma vasta experiência com Spring Framework, Groovy e PostgreSQL.
+Sou um desenvolvedor Java experiente, com proficiência em Spring Framework, Microsserviços, PostgreSQL e AWS. Trabalho atualmente como Especialista em Operações Portuárias na Sepetiba Tecon - CSN, onde lidero projetos de Power Apps, Power Automate e uma equipe de QA, além de ter adquirido uma vasta experiência com Spring Framework, Groovy e PostgreSQL.
 
 Além da minha experiência profissional, concluí diversos cursos que fortaleceram minha formação em desenvolvimento:
 
@@ -13,6 +13,10 @@ Além da minha experiência profissional, concluí diversos cursos que fortalece
 - Java com arquitetura de Microsserviços, Spring e RabbitMQ (Concluído em 02/06/2023, com 39 horas de estudo e 4 cursos)
 
 No passado, servi como Sargento no Exército Brasileiro, onde adquiri habilidades de liderança, gerenciamento de recursos e adaptação a diferentes ambientes de trabalho.
+
+## 🎓 Formação
+
+Pós-graduação Lato Sensu - Especialização, Desenvolvimento em Aplicações Web, Faculdade Dominius
 
 ## 🌱 Projetos Recentes
 
