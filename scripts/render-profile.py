@@ -76,37 +76,43 @@ def hero(mobile=False):
         body += text(1073, 195, 'DS', 53, ACCENT, 700)
     save('hero-mobile.svg' if mobile else 'hero.svg', w, h, body, 'Diogo Santos — Java Sênior, arquitetura e liderança técnica', 'Software que entende o negócio. Mais de 30 projetos; 15 em destaque. Backend e full stack. Trabalho remoto, Itaguaí/RJ.')
 
-def card(project, x=0, y=0):
+def card(project, x=0, y=0, mobile=False):
     rank = str(project['rank']).zfill(2)
     accent = ACCENT if project['rank'] <= 5 else '#A4C8EC'
     out = f'<g transform="translate({x} {y})">'
-    out += rect(0, 0, 624, 332, CARD, 18, f'stroke="{LINE}"')
+    out += rect(0, 0, 624, 448 if mobile else 332, CARD, 18, f'stroke="{LINE}"')
     out += rect(0, 25, 4, 54, accent, 2)
     out += text(28, 40, rank + ' / ' + project['sector'], 17, accent, 700, 'letter-spacing=".8"')
-    out += text(28, 92, project['name'], 39, WHITE, 700)
-    lines = wrap(project['desc'], 25, 566)
+    out += text(28, 100 if mobile else 92, project['name'], 44 if mobile else 39, WHITE, 700)
+    size = 33 if mobile else 25
+    lines = wrap(project['desc'], size, 566)
     for i, line in enumerate(lines):
-        out += text(28, 139 + i*33, line, 25, MUTED)
-    assert len(lines) <= 3, project['name']
+        out += text(28, (156 + i*40) if mobile else (139 + i*33), line, size, MUTED)
+    assert len(lines) <= (4 if mobile else 3), project['name']
     px = 28
     for tech in project['tech']:
-        width = round(font(18, True).getlength(tech)) + 26
-        out += rect(px, 251, width, 30, '#203A4C', 7)
-        out += text(px+13, 272, tech, 18, '#BBE4F1', 700)
+        tag_size = 22 if mobile else 18
+        width = round(font(tag_size, True).getlength(tech)) + 26
+        out += rect(px, 318 if mobile else 251, width, 36 if mobile else 30, '#203A4C', 7)
+        out += text(px+13, 344 if mobile else 272, tech, tag_size, '#BBE4F1', 700)
         px += width+10
     assert px < 620, (project['name'], px)
-    out += text(28, 311, project['focus'], 18, '#B3C3D4')
+    if mobile:
+        for i, line in enumerate(wrap(project['focus'], 24, 566)):
+            out += text(28, 396+i*29, line, 24, '#B3C3D4')
+    else:
+        out += text(28, 311, project['focus'], 18, '#B3C3D4')
     return out + '</g>'
 
 hero()
 hero(True)
 for i in range(0, 15, 2):
     pair = PROJECTS[i:i+2]
-    desktop = ''.join(card(p, (j*656), 0) for j, p in enumerate(pair))
+    desktop = ''.join(card(p, (j*656) if len(pair)==2 else 328, 0) for j, p in enumerate(pair))
     # Uma última linha com um único cartão preserva a mesma escala tipográfica.
     save(f'projects-{i//2+1:02}.svg', 1280, 340, desktop, ' | '.join(f"{p['rank']:02}. {p['name']}" for p in pair), ' '.join(p['desc'] for p in pair))
-    mobile = ''.join(card(p, 0, j*352) for j, p in enumerate(pair))
-    save(f'projects-{i//2+1:02}-mobile.svg', 624, len(pair)*352-12, mobile, ' | '.join(f"{p['rank']:02}. {p['name']}" for p in pair), ' '.join(p['desc'] for p in pair))
+    mobile = ''.join(card(p, 0, j*468, mobile=True) for j, p in enumerate(pair))
+    save(f'projects-{i//2+1:02}-mobile.svg', 624, len(pair)*468-20, mobile, ' | '.join(f"{p['rank']:02}. {p['name']}" for p in pair), ' '.join(p['desc'] for p in pair))
 
 for name, label, color in [('linkedin', 'LinkedIn', '#184966'), ('email', 'E-mail', '#23364A'), ('whatsapp', 'WhatsApp', '#245348')]:
     save(f'{name}.svg', 184, 48, rect(0,0,184,48,color,10)+text(92,31,label,21,WHITE,700,'text-anchor="middle"'), label)
