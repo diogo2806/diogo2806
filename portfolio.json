@@ -1,0 +1,231 @@
+{
+  "updated": "2026-11-07",
+  "selection": "Ordem editorial baseada em profundidade funcional, arquitetura, integrações, controles de acesso e testes versionados. A revisão por amostragem não equivale a auditoria integral nem certifica operação em produção.",
+  "projects": [
+    {
+      "rank": 1,
+      "name": "CloudPort",
+      "repo": "CloudPort",
+      "sector": "LOGÍSTICA PORTUÁRIA",
+      "desc": "Gate, pátio, ferrovia e planejamento de navios em uma plataforma modular.",
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "focus": "Domínios operacionais e regras logísticas",
+      "reason": "Amplitude funcional, limites de domínio e testes de regressão.",
+      "detail": "Gate, inventário, pátio, ferrovia, navios e faturamento."
+    },
+    {
+      "rank": 2,
+      "name": "Práxis",
+      "repo": "praxis",
+      "sector": "RECRUTAMENTO & AVALIAÇÃO",
+      "desc": "Avaliações situacionais com pontuação determinística e integrações com ATS.",
+      "tech": [
+        "Java 21",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Versionamento, auditoria e outbox",
+      "reason": "Versionamento imutável, integrações e testes de fluxos e permissões.",
+      "detail": "Jornadas por competência, relatórios e integração com Gupy e Recrutei."
+    },
+    {
+      "rank": 3,
+      "name": "AIA Champions",
+      "repo": "aia-champions",
+      "sector": "PEOPLE TECH",
+      "desc": "Jornadas gamificadas de avaliação, cultura e indicadores de permanência.",
+      "tech": [
+        "Java 21",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Multi-tenancy, acessibilidade e analytics",
+      "reason": "Isolamento empresarial, consentimentos, cobrança e jornadas acessíveis.",
+      "detail": "Avaliação, vieses inconscientes e permanência no ecossistema DiverSCInnova."
+    },
+    {
+      "rank": 4,
+      "name": "iClinicaDx",
+      "repo": "iClinicaDx",
+      "sector": "SAÚDE & OPERAÇÃO CLÍNICA",
+      "desc": "Gestão de clínicas e laboratórios, da agenda aos documentos e ao financeiro.",
+      "tech": [
+        "Java",
+        "React",
+        "WebSocket"
+      ],
+      "focus": "Fluxos clínicos, permissões e concorrência",
+      "reason": "Profundidade dos fluxos clínicos, concorrência e testes de autorização.",
+      "detail": "Agenda, atendimento, documentos, laboratórios e rotinas financeiras."
+    },
+    {
+      "rank": 5,
+      "name": "KRINO",
+      "repo": "krino",
+      "sector": "GESTÃO EDUCACIONAL",
+      "desc": "Secretaria escolar, diário de classe e avaliações conectados na mesma rede.",
+      "tech": [
+        "Java 21",
+        "Spring Boot",
+        "PostgreSQL"
+      ],
+      "focus": "Regras acadêmicas e acesso por contexto",
+      "reason": "Regras acadêmicas, permissões e relatórios com contexto escolar.",
+      "detail": "Matrículas, diários, avaliações em rede e acompanhamento pedagógico."
+    },
+    {
+      "rank": 6,
+      "name": "UniHub",
+      "repo": "unihub",
+      "sector": "PROTOCOLOS & EVIDÊNCIAS",
+      "desc": "ProtocolGuard organiza protocolos, documentos, acontecimentos e prazos.",
+      "tech": [
+        "Java",
+        "React",
+        "PostgreSQL"
+      ],
+      "focus": "Histórico, evidências e identidade única",
+      "reason": "Rastreabilidade de evidências, fluxos persistidos e testes de regressão.",
+      "detail": "Protocolos pessoais, evidências, prazos e dossiês sob uma identidade única."
+    },
+    {
+      "rank": 7,
+      "name": "Guardião",
+      "repo": "guardiao",
+      "sector": "SERVIÇOS PÚBLICOS",
+      "desc": "Chamados e manutenção de ativos públicos conectando cidadão e gestão.",
+      "tech": [
+        "Java 21",
+        "React",
+        "PostGIS"
+      ],
+      "focus": "Ordens de serviço e escopo por município",
+      "reason": "Operação com múltiplos perfis, auditoria e testes de isolamento.",
+      "detail": "Chamados, triagem, ordens de serviço, equipes e ativos públicos."
+    },
+    {
+      "rank": 8,
+      "name": "KHORA",
+      "repo": "khora",
+      "sector": "GESTÃO CORPORATIVA",
+      "desc": "Core corporativo e módulos de estoque, patrimônio, contratos e frotas.",
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Core compartilhado e rastreabilidade",
+      "reason": "Core modular e cobertura de fluxos operacionais; evolução incremental.",
+      "detail": "Organização, almoxarifado, patrimônio, licitações, contratos, frotas e serviços."
+    },
+    {
+      "rank": 9,
+      "name": "Prancheta",
+      "repo": "Prancheta",
+      "sector": "SPORTS ANALYTICS",
+      "desc": "Scouting e análise de desempenho no futebol com contexto e indicadores.",
+      "tech": [
+        "Java 21",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Métricas, eventos e confiança da análise",
+      "reason": "Modelagem de eventos esportivos, análise contextual e testes versionados.",
+      "detail": "Scouting, partidas, jogadores e indicadores de desempenho no futebol."
+    },
+    {
+      "rank": 10,
+      "name": "iForce Billing",
+      "repo": "iforce-billing",
+      "sector": "PAGAMENTOS & INTEGRAÇÕES",
+      "desc": "Central de checkout, pagamentos e entrega de créditos para múltiplos SaaS.",
+      "tech": [
+        "Java 21",
+        "PostgreSQL",
+        "Asaas"
+      ],
+      "focus": "Webhooks, idempotência e auditoria",
+      "reason": "Integração financeira, contratos de entrega e testes de webhook.",
+      "detail": "Catálogo, pedidos, checkout hospedado, eventos e entrega de créditos."
+    },
+    {
+      "rank": 11,
+      "name": "Bora Interagir!",
+      "repo": "borainteragir",
+      "sector": "CREATOR TOOLS",
+      "desc": "Avaliações, pesquisas e participação da audiência em vídeos do YouTube.",
+      "tech": [
+        "Java",
+        "React",
+        "Chrome"
+      ],
+      "focus": "API, extensão e pesquisas versionadas",
+      "reason": "Integração entre API, Studio e extensão; testes backend e frontend.",
+      "detail": "Studio, extensão Chrome, participação web, pesquisas e comunidade."
+    },
+    {
+      "rank": 12,
+      "name": "InfluConnect",
+      "repo": "InfluConnect",
+      "sector": "MARKETING & PARCERIAS",
+      "desc": "Conecta marcas, influenciadores e agências na gestão de campanhas.",
+      "tech": [
+        "Java 24",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Campanhas, contratos e pagamentos",
+      "reason": "Ciclo de campanhas, perfis de acesso e regras de colaboração.",
+      "detail": "Campanhas, propostas, contratos, pagamentos, mensagens e marketplace."
+    },
+    {
+      "rank": 13,
+      "name": "iForce Comercial",
+      "repo": "iforce-comercial",
+      "sector": "CRM & OPERAÇÃO COMERCIAL",
+      "desc": "Clientes, oportunidades, propostas e contratos para um ecossistema SaaS.",
+      "tech": [
+        "Java 21",
+        "React",
+        "PostgreSQL"
+      ],
+      "focus": "Escopo comercial e provisionamento",
+      "reason": "Integração com produtos, autorização por recurso e testes de jornada.",
+      "detail": "Clientes, pipeline, propostas, pedidos, contratos e comissões."
+    },
+    {
+      "rank": 14,
+      "name": "S3gram",
+      "repo": "S3gram",
+      "sector": "ARQUIVOS & PROTOCOLOS",
+      "desc": "Workspace de arquivos com acesso web, SFTP e WebDAV sobre storage Telegram.",
+      "tech": [
+        "Java 21",
+        "SFTP / WebDAV",
+        "Telegram"
+      ],
+      "focus": "Permissões, versões e compartilhamento",
+      "reason": "Integração entre protocolos de arquivo e controle de acesso persistido.",
+      "detail": "Arquivos, versões, lixeira e compartilhamento. Não é uma API AWS S3 compatível."
+    },
+    {
+      "rank": 15,
+      "name": "iForce Mail",
+      "repo": "iforce-mail",
+      "sector": "COMUNICAÇÃO CORPORATIVA",
+      "desc": "Caixas de e-mail corporativas e integração com a operação comercial.",
+      "tech": [
+        "Java 21",
+        "React",
+        "MinIO"
+      ],
+      "focus": "Identidade, anexos e webhooks assinados",
+      "reason": "Identidade corporativa, armazenamento e validação de eventos recebidos.",
+      "detail": "Domínios, caixas, mensagens e anexos com integração ao iForce Comercial."
+    }
+  ]
+}

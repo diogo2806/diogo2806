@@ -1,63 +1,143 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero.svg" width="100%" alt="Diogo Santos. Desenvolvedor Java Sênior, arquitetura de software e liderança técnica. Mais de 30 projetos, 15 em destaque. Backend e full stack. 100% remoto, Itaguaí/RJ.">
+</picture>
 
-# Diogo Santos
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-santos-044b40b4/"><img src="./assets/linkedin.svg" width="138" height="36" alt="Conheça meu perfil no LinkedIn"></a>
+  <a href="mailto:diogo.01501@gmail.com"><img src="./assets/email.svg" width="138" height="36" alt="Envie um e-mail para Diogo"></a>
+  <a href="https://wa.me/5521967081952"><img src="./assets/whatsapp.svg" width="138" height="36" alt="Converse comigo no WhatsApp"></a>
+</p>
 
-### Desenvolvedor Java Sênior · Arquitetura de Software · Liderança Técnica
-
-Backend Java, integrações e produtos digitais com regras de negócio complexas.
-
-[LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/) · [E-mail](mailto:diogo.01501@gmail.com) · [WhatsApp](https://wa.me/5521967081952)
-
-Itaguaí, RJ · Oportunidades 100% remotas · Profissional PCD
-
-</div>
-
----
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#portfólio">Portfólio</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#experiência">Experiência</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
+</p>
 
 ## Sobre mim
 
-Sou desenvolvedor Java Sênior com experiência em sistemas governamentais, operações portuárias e plataformas SaaS. Trabalho com APIs, segurança, integrações e evolução de sistemas, conectando decisões de arquitetura às necessidades de quem usa o produto.
+Sou desenvolvedor Java Sênior com experiência em sistemas governamentais, logística portuária e plataformas SaaS. Trabalho da regra de negócio à API, das integrações à interface, com atenção a segurança, qualidade e manutenção.
 
-Minha trajetória combina desenvolvimento, liderança técnica e qualidade de software. Já atuei como ponte entre operação e tecnologia, participei da implantação do Navis N4 e trabalhei com automação de testes e liderança de QA. Essa experiência orienta meu trabalho: compreender o processo, implementar a solução e acompanhar seu comportamento.
+Minha trajetória reúne desenvolvimento, liderança de QA e atuação entre operação e TI. Participei da implantação do Navis N4 e desenvolvo produtos para saúde, educação, recrutamento e gestão. Busco desafios como Java Sênior e Tech Lead com participação no código, em modelo 100% remoto.
 
-## Produtos que representam meu trabalho
+## Portfólio
 
-Atuo no desenvolvimento de produtos para recrutamento, saúde, educação e logística. Estes projetos reúnem parte dos desafios de backend, arquitetura e integração com que trabalho:
+### 15 projetos em destaque
 
-| Produto | Aplicação | Desafios técnicos |
-| --- | --- | --- |
-| AIA Champions | Plataforma da DiverSCInnova com jornadas gamificadas de avaliação, vieses inconscientes e indicadores de permanência. | Java 21, Spring Boot e React; isolamento entre empresas, permissões, consentimentos, analytics e cobrança por créditos. |
-| Práxis | Avaliações situacionais por competência para apoiar processos de recrutamento. | Java 21, Spring Boot e React; pontuação determinística, versões imutáveis, integrações com ATS, webhooks e auditoria. |
-| iClinicaDx | SaaS para gestão integrada de clínicas e laboratórios. | Monólito modular em Java e Spring Boot, React, PostgreSQL e WebSocket; agenda, atendimento, documentos clínicos e fluxos financeiros. |
-| CloudPort | Plataforma de operação portuária com Gate, pátio, ferrovia, navios e faturamento. | Backend Java organizado por domínios, Spring Boot, PostgreSQL e React; planejamento operacional, inventário e regras logísticas. |
-| KRINO | Sistema integrado de gestão educacional, com secretaria escolar, diário de classe e avaliações em rede. | Java 21, Spring Boot, PostgreSQL e React; regras acadêmicas, controle de acesso e relatórios pedagógicos. |
+A ordem considera profundidade funcional, arquitetura, integrações e evidências de testes versionados. Os produtos estão em diferentes estágios de evolução.
 
-Os códigos desses produtos estão em repositórios privados. Para conversar sobre minha participação, arquitetura e decisões técnicas, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/).
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-01-mobile.svg">
+  <img src="./assets/projects-01.svg" width="100%" alt="01. CloudPort: Gate, pátio, ferrovia e planejamento de navios em uma plataforma modular. Domínios operacionais e regras logísticas. | 02. Práxis: Avaliações situacionais com pontuação determinística e integrações com ATS. Versionamento, auditoria e outbox.">
+</picture>
 
-## Experiência em contextos de negócio
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-02-mobile.svg">
+  <img src="./assets/projects-02.svg" width="100%" alt="03. AIA Champions: Jornadas gamificadas de avaliação, cultura e indicadores de permanência. Multi-tenancy, acessibilidade e analytics. | 04. iClinicaDx: Gestão de clínicas e laboratórios, da agenda aos documentos e ao financeiro. Fluxos clínicos, permissões e concorrência.">
+</picture>
 
-- Setor público: atuação em projetos para TJGO, CGE-RR, ATI-TO e Prefeitura de Fortaleza, envolvendo sistemas administrativos, transparência, APIs e auditoria.
-- Operação portuária: experiência na Sepetiba Tecon, implantação do Navis N4, regras em Java/Groovy e integração entre TI e operação.
-- Produtos digitais: desenvolvimento de plataformas SaaS, integrações comerciais, pagamentos, permissões e jornadas de usuários.
-- Qualidade e liderança: automação de testes, investigação de falhas, alinhamento de requisitos e apoio a decisões técnicas.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-03-mobile.svg">
+  <img src="./assets/projects-03.svg" width="100%" alt="05. KRINO: Secretaria escolar, diário de classe e avaliações conectados na mesma rede. Regras acadêmicas e acesso por contexto. | 06. UniHub: ProtocolGuard organiza protocolos, documentos, acontecimentos e prazos. Histórico, evidências e identidade única.">
+</picture>
 
-## Stack e práticas
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-04-mobile.svg">
+  <img src="./assets/projects-04.svg" width="100%" alt="07. Guardião: Chamados e manutenção de ativos públicos conectando cidadão e gestão. Ordens de serviço e escopo por município. | 08. KHORA: Core corporativo e módulos de estoque, patrimônio, contratos e frotas. Core compartilhado e rastreabilidade.">
+</picture>
 
-| Área | Tecnologias |
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-05-mobile.svg">
+  <img src="./assets/projects-05.svg" width="100%" alt="09. Prancheta: Scouting e análise de desempenho no futebol com contexto e indicadores. Métricas, eventos e confiança da análise. | 10. iForce Billing: Central de checkout, pagamentos e entrega de créditos para múltiplos SaaS. Webhooks, idempotência e auditoria.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-06-mobile.svg">
+  <img src="./assets/projects-06.svg" width="100%" alt="11. Bora Interagir!: Avaliações, pesquisas e participação da audiência em vídeos do YouTube. API, extensão e pesquisas versionadas. | 12. InfluConnect: Conecta marcas, influenciadores e agências na gestão de campanhas. Campanhas, contratos e pagamentos.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-07-mobile.svg">
+  <img src="./assets/projects-07.svg" width="100%" alt="13. iForce Comercial: Clientes, oportunidades, propostas e contratos para um ecossistema SaaS. Escopo comercial e provisionamento. | 14. S3gram: Workspace de arquivos com acesso web, SFTP e WebDAV sobre storage Telegram. Permissões, versões e compartilhamento.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects-08-mobile.svg">
+  <img src="./assets/projects-08.svg" width="100%" alt="15. iForce Mail: Caixas de e-mail corporativas e integração com a operação comercial. Identidade, anexos e webhooks assinados.">
+</picture>
+
+Os códigos desses 15 produtos são privados. Posso conversar sobre minha participação, os desafios e as decisões técnicas pelo [LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/).
+
+<details>
+<summary>Ver os 15 projetos em texto e entender a seleção</summary>
+
+A curadoria prioriza sistemas com regras de negócio, arquitetura organizada, integrações e testes identificáveis no repositório. A ordem representa uma avaliação editorial por amostragem; não é uma auditoria integral de qualidade ou uma certificação de produção.
+
+| Ordem | Projeto | Aplicação | Engenharia em destaque |
+| --- | --- | --- | --- |
+| 01 | CloudPort | Gate, inventário, pátio, ferrovia, navios e faturamento. | Domínios operacionais e regras logísticas. |
+| 02 | Práxis | Jornadas por competência, relatórios e integração com Gupy e Recrutei. | Versionamento, auditoria e outbox. |
+| 03 | AIA Champions | Avaliação, vieses inconscientes e permanência no ecossistema DiverSCInnova. | Multi-tenancy, acessibilidade e analytics. |
+| 04 | iClinicaDx | Agenda, atendimento, documentos, laboratórios e rotinas financeiras. | Fluxos clínicos, permissões e concorrência. |
+| 05 | KRINO | Matrículas, diários, avaliações em rede e acompanhamento pedagógico. | Regras acadêmicas e acesso por contexto. |
+| 06 | UniHub | Protocolos pessoais, evidências, prazos e dossiês sob uma identidade única. | Histórico, evidências e identidade única. |
+| 07 | Guardião | Chamados, triagem, ordens de serviço, equipes e ativos públicos. | Ordens de serviço e escopo por município. |
+| 08 | KHORA | Organização, almoxarifado, patrimônio, licitações, contratos, frotas e serviços. | Core compartilhado e rastreabilidade. |
+| 09 | Prancheta | Scouting, partidas, jogadores e indicadores de desempenho no futebol. | Métricas, eventos e confiança da análise. |
+| 10 | iForce Billing | Catálogo, pedidos, checkout hospedado, eventos e entrega de créditos. | Webhooks, idempotência e auditoria. |
+| 11 | Bora Interagir! | Studio, extensão Chrome, participação web, pesquisas e comunidade. | API, extensão e pesquisas versionadas. |
+| 12 | InfluConnect | Campanhas, propostas, contratos, pagamentos, mensagens e marketplace. | Campanhas, contratos e pagamentos. |
+| 13 | iForce Comercial | Clientes, pipeline, propostas, pedidos, contratos e comissões. | Escopo comercial e provisionamento. |
+| 14 | S3gram | Arquivos, versões, lixeira e compartilhamento. Não é uma API AWS S3 compatível. | Permissões, versões e compartilhamento. |
+| 15 | iForce Mail | Domínios, caixas, mensagens e anexos com integração ao iForce Comercial. | Identidade, anexos e webhooks assinados. |
+
+</details>
+
+## Stack
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-mobile.svg">
+  <img src="./assets/stack.svg" width="100%" alt="Tecnologias principais: Java, Spring, PostgreSQL, Oracle, React, TypeScript, Docker e testes.">
+</picture>
+
+| Foco | Tecnologias e práticas |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, Groovy |
-| Arquitetura | APIs REST, microsserviços, monólitos modulares, DDD, Clean Architecture, arquitetura hexagonal e Design Patterns |
-| Dados e mensageria | PostgreSQL, Oracle, SQL, PL/SQL, Redis, Flyway, Kafka e RabbitMQ |
-| Segurança e integrações | OAuth2, JWT, Keycloak, webhooks, integrações com ATS e gateways de pagamento |
+| Backend e arquitetura | Java, Spring Boot, Spring Security, JPA/Hibernate, APIs REST, microsserviços, monólitos modulares, DDD e Clean Architecture |
+| Dados e integrações | PostgreSQL, Oracle, Redis, Flyway, Kafka, RabbitMQ, OAuth2, JWT e webhooks |
 | Frontend | React, TypeScript, Angular, Next.js, JSF e PrimeFaces |
-| Qualidade e entrega | JUnit, MockMvc, Mockito, Testcontainers, Selenium, Cypress, Docker, Git e CI/CD |
+| Qualidade e entrega | JUnit, Mockito, MockMvc, Testcontainers, Selenium, Cypress, Git, Docker e CI/CD |
 
-## Formação
+## Experiência
+
+- Setor público: projetos para TJGO, CGE-RR, ATI-TO e Prefeitura de Fortaleza, com sistemas administrativos, transparência, APIs e auditoria.
+- Logística portuária: trajetória na Sepetiba Tecon, implantação do Navis N4, desenvolvimento em Java/Groovy e conexão entre tecnologia e operação.
+- Produtos SaaS: plataformas com múltiplos perfis, integrações, pagamentos, permissões e jornadas de usuários.
+- Qualidade e liderança: automação de testes, investigação de falhas, alinhamento de requisitos e apoio às decisões técnicas.
+
+<details>
+<summary>Formação e acessibilidade</summary>
 
 Graduação em Logística e pós-graduações em Desenvolvimento Web, Big Data e Ciência de Dados, Gestão de Pessoas e RH e Cloud Computing.
 
-## Vamos conversar?
+Sou profissional PCD e valorizo acessibilidade no produto e no ambiente de trabalho.
 
-Tenho interesse em posições de Desenvolvedor Java Sênior e Tech Lead com participação no desenvolvimento, em modelo 100% remoto.
+</details>
 
-[Meu perfil profissional no LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/) · [diogo.01501@gmail.com](mailto:diogo.01501@gmail.com) · [WhatsApp](https://wa.me/5521967081952)
+## Contato
+
+<a href="https://www.linkedin.com/in/diogo-santos-044b40b4/">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/contact-mobile.svg">
+  <img src="./assets/contact.svg" width="100%" alt="Vamos construir o próximo projeto? Java Sênior e Tech Lead, 100% remoto. Converse comigo no LinkedIn.">
+</picture>
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-santos-044b40b4/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:diogo.01501@gmail.com">diogo.01501@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/5521967081952">WhatsApp</a>
+</p>
+
