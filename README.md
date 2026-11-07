@@ -1,82 +1,63 @@
-# Olá, sou Diogo Santos 👋
+<div align="center">
 
-### Desenvolvedor Java Sênior · Spring Boot · APIs e integrações
+# Diogo Santos
 
-Desenvolvo sistemas com foco em regras de negócio, qualidade e manutenção. Minha experiência reúne backend Java, automação de testes e integração de sistemas, com atuação também em interfaces React e TypeScript.
+### Desenvolvedor Java Sênior · Arquitetura de Software · Liderança Técnica
 
-Trago a visão de quem trabalhou com operações portuárias e participou da implantação do Navis N4: entender o processo de quem usa o sistema faz parte do desenvolvimento.
+Backend Java, integrações e produtos digitais com regras de negócio complexas.
 
-📍 Itaguaí, RJ · Interesse em oportunidades 100% remotas
+[LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/) · [E-mail](mailto:diogo.01501@gmail.com) · [WhatsApp](https://wa.me/5521967081952)
 
-[Entre em contato por e-mail](mailto:diogo.01501@gmail.com) · [Converse comigo no WhatsApp](https://wa.me/5521967081952)
+Itaguaí, RJ · Oportunidades 100% remotas · Profissional PCD
+
+</div>
 
 ---
 
-## Como posso contribuir com seu time
+## Sobre mim
 
-- Desenvolver e evoluir APIs REST com Java, Spring Boot, Spring Security e JPA/Hibernate.
-- Traduzir regras de negócio em funcionalidades, integrações e consultas SQL.
-- Trabalhar na manutenção de sistemas existentes e na construção de novas aplicações.
-- Aplicar testes automatizados e experiência em QA para investigar falhas e prevenir regressões.
-- Conectar backend e frontend, acompanhando o fluxo completo de uma funcionalidade.
+Sou desenvolvedor Java Sênior com experiência em sistemas governamentais, operações portuárias e plataformas SaaS. Trabalho com APIs, segurança, integrações e evolução de sistemas, conectando decisões de arquitetura às necessidades de quem usa o produto.
 
-## Tecnologias
+Minha trajetória combina desenvolvimento, liderança técnica e qualidade de software. Já atuei como ponte entre operação e tecnologia, participei da implantação do Navis N4 e trabalhei com automação de testes e liderança de QA. Essa experiência orienta meu trabalho: compreender o processo, implementar a solução e acompanhar seu comportamento.
 
-| Área | Tecnologias e práticas |
+## Produtos que representam meu trabalho
+
+Atuo no desenvolvimento de produtos para recrutamento, saúde, educação e logística. Estes projetos reúnem parte dos desafios de backend, arquitetura e integração com que trabalho:
+
+| Produto | Aplicação | Desafios técnicos |
+| --- | --- | --- |
+| AIA Champions | Plataforma da DiverSCInnova com jornadas gamificadas de avaliação, vieses inconscientes e indicadores de permanência. | Java 21, Spring Boot e React; isolamento entre empresas, permissões, consentimentos, analytics e cobrança por créditos. |
+| Práxis | Avaliações situacionais por competência para apoiar processos de recrutamento. | Java 21, Spring Boot e React; pontuação determinística, versões imutáveis, integrações com ATS, webhooks e auditoria. |
+| iClinicaDx | SaaS para gestão integrada de clínicas e laboratórios. | Monólito modular em Java e Spring Boot, React, PostgreSQL e WebSocket; agenda, atendimento, documentos clínicos e fluxos financeiros. |
+| CloudPort | Plataforma de operação portuária com Gate, pátio, ferrovia, navios e faturamento. | Backend Java organizado por domínios, Spring Boot, PostgreSQL e React; planejamento operacional, inventário e regras logísticas. |
+| KRINO | Sistema integrado de gestão educacional, com secretaria escolar, diário de classe e avaliações em rede. | Java 21, Spring Boot, PostgreSQL e React; regras acadêmicas, controle de acesso e relatórios pedagógicos. |
+
+Os códigos desses produtos estão em repositórios privados. Para conversar sobre minha participação, arquitetura e decisões técnicas, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/).
+
+## Experiência em contextos de negócio
+
+- Setor público: atuação em projetos para TJGO, CGE-RR, ATI-TO e Prefeitura de Fortaleza, envolvendo sistemas administrativos, transparência, APIs e auditoria.
+- Operação portuária: experiência na Sepetiba Tecon, implantação do Navis N4, regras em Java/Groovy e integração entre TI e operação.
+- Produtos digitais: desenvolvimento de plataformas SaaS, integrações comerciais, pagamentos, permissões e jornadas de usuários.
+- Qualidade e liderança: automação de testes, investigação de falhas, alinhamento de requisitos e apoio a decisões técnicas.
+
+## Stack e práticas
+
+| Área | Tecnologias |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring Security, JPA/Hibernate, Groovy |
-| Dados | PostgreSQL, Oracle, SQL, Flyway |
-| Frontend | React, TypeScript, Next.js, JSF, PrimeFaces |
-| Qualidade | JUnit, Mockito, Selenium, Cypress |
-| Entrega | Git, Maven, Docker, OpenShift |
-| Arquitetura e integrações | APIs REST, microsserviços, SOLID, padrões de projeto, MCP |
+| Backend | Java, Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, Groovy |
+| Arquitetura | APIs REST, microsserviços, monólitos modulares, DDD, Clean Architecture, arquitetura hexagonal e Design Patterns |
+| Dados e mensageria | PostgreSQL, Oracle, SQL, PL/SQL, Redis, Flyway, Kafka e RabbitMQ |
+| Segurança e integrações | OAuth2, JWT, Keycloak, webhooks, integrações com ATS e gateways de pagamento |
+| Frontend | React, TypeScript, Angular, Next.js, JSF e PrimeFaces |
+| Qualidade e entrega | JUnit, MockMvc, Mockito, Testcontainers, Selenium, Cypress, Docker, Git e CI/CD |
 
-## Projetos para conhecer meu trabalho
+## Formação
 
-### [Privacy Guard](https://github.com/diogo2806/t3-privacy-guard)
-
-Camada de controle entre agentes de IA e os sistemas em que eles executam ações. O projeto separa proposta, autorização humana, execução e verificação do resultado.
-
-- Backend em Java 21 e Spring Boot, com dashboard em React e TypeScript.
-- Integração via MCP, políticas de acesso e trilhas de auditoria.
-- Serviços separados para aplicação e execução controlada, com configuração Docker.
-
-Uma amostra do meu trabalho com arquitetura backend, integrações e governança de ações de IA. O README apresenta a arquitetura, as instruções de execução e as limitações atuais.
-
-### [iLuau](https://github.com/diogo2806/iluau)
-
-Plugin que conecta o Roblox Studio ao Codex por meio de um servidor MCP local.
-
-- Inspeção de objetos e edição de propriedades, atributos e tags.
-- Painel no Studio, dashboard local e fila de tarefas.
-- Integração entre Node.js, Lua e ferramentas de IA.
-
-Uma amostra de integração entre ferramentas e automação aplicada ao fluxo de desenvolvimento.
-
-### [Alura Food](https://github.com/diogo2806/alura-food)
-
-Projeto de estudo de microsserviços com Java e Spring. Faz parte da minha formação prática em desenvolvimento backend e arquitetura de serviços.
-
-## Experiência que levo para o desenvolvimento
-
-Minha trajetória inclui desenvolvimento Java na IBROWSE e atuação na Sepetiba Tecon, com participação na implantação do Navis N4, desenvolvimento em Java/Groovy e automação de testes.
-
-Também servi como sargento no Exército Brasileiro, experiência que contribuiu para minha disciplina, organização e trabalho em equipe.
-
-## Formação e aprendizado
-
-- Pós-graduação em Desenvolvimento de Aplicações Web.
-- Pós-graduação em Big Data e Ciência de Dados.
-- Pós-graduação em Gestão de Pessoas e Recursos Humanos.
-- Formação complementar em Java, Spring, arquitetura de software, microsserviços e QA.
-
-[Veja meu perfil de cursos na Alura](https://cursos.alura.com.br/user/diogo-01501).
+Graduação em Logística e pós-graduações em Desenvolvimento Web, Big Data e Ciência de Dados, Gestão de Pessoas e RH e Cloud Computing.
 
 ## Vamos conversar?
 
-Tenho interesse em oportunidades como Desenvolvedor Java Sênior e em desafios de liderança técnica com atuação no código, no modelo 100% remoto.
+Tenho interesse em posições de Desenvolvedor Java Sênior e Tech Lead com participação no desenvolvimento, em modelo 100% remoto.
 
-Sou profissional PCD e valorizo ambientes acessíveis, colaboração e comunicação clara.
-
-📧 [diogo.01501@gmail.com](mailto:diogo.01501@gmail.com)  
-💬 [WhatsApp](https://wa.me/5521967081952)
+[Meu perfil profissional no LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/) · [diogo.01501@gmail.com](mailto:diogo.01501@gmail.com) · [WhatsApp](https://wa.me/5521967081952)
