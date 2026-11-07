@@ -1,36 +1,82 @@
-# Olá, sou o Diogo Santos 👋 :wave:
+# Olá, sou Diogo Santos 👋
 
-Sou um desenvolvedor Java experiente, com proficiência em Spring Framework, Microsserviços, PostgreSQL e AWS. Trabalho atualmente como Especialista em Operações Portuárias na Sepetiba Tecon - CSN, onde lidero projetos de Power Apps, Power Automate e uma equipe de QA, além de ter adquirido uma vasta experiência com Spring Framework, Groovy e PostgreSQL.
+### Desenvolvedor Java Sênior · Spring Boot · APIs e integrações
 
-Além da minha experiência profissional, concluí diversos cursos que fortaleceram minha formação em desenvolvimento:
+Desenvolvo sistemas com foco em regras de negócio, qualidade e manutenção. Minha experiência reúne backend Java, automação de testes e integração de sistemas, com atuação também em interfaces React e TypeScript.
 
-- Aprenda a programar em Java com Orientação a Objetos (Concluído em 30/09/2022, com 121 horas de estudo e 10 cursos)
-- Aprofunde em Java com arquitetura e padrões de projeto (Concluído em 04/11/2022, com 70 horas de estudo e 8 cursos)
-- Spring Framework (Concluído em 18/11/2022, com 123 horas de estudo e 12 cursos)
-- Java Web: crie aplicações com Servlets e MVC (Concluído em 13/10/2022, com 26 horas de estudo e 2 cursos)
-- Engenharia de software (Concluído em 05/05/2023, com 85 horas de estudo e 9 cursos)
-- Carreira QA: processos e automação de testes (Concluído em 02/06/2023, com 61 horas de estudo e 6 cursos)
-- Java com arquitetura de Microsserviços, Spring e RabbitMQ (Concluído em 02/06/2023, com 39 horas de estudo e 4 cursos)
+Trago a visão de quem trabalhou com operações portuárias e participou da implantação do Navis N4: entender o processo de quem usa o sistema faz parte do desenvolvimento.
 
-No passado, servi como Sargento no Exército Brasileiro, onde adquiri habilidades de liderança, gerenciamento de recursos e adaptação a diferentes ambientes de trabalho.
+📍 Itaguaí, RJ · Interesse em oportunidades 100% remotas
 
-## 🎓 Formação
+[Entre em contato por e-mail](mailto:diogo.01501@gmail.com) · [Converse comigo no WhatsApp](https://wa.me/5521967081952)
 
-Pós-graduação Lato Sensu - Especialização, Desenvolvimento em Aplicações Web, Faculdade Dominius
+---
 
-## 🌱 Projetos Recentes
+## Como posso contribuir com seu time
 
-- [memoteca-angular](https://github.com/diogo2806/memoteca-angular) - Projeto em TypeScript (Atualizado em 2 de Julho, 2023)
-- [alura-food](https://github.com/diogo2806/alura-food) - Implementação prática de Microsserviços com Java e Spring (Atualizado em 24 de Junho, 2023)
-- [cursoReact](https://github.com/diogo2806/cursoReact) - Projeto em TypeScript (Atualizado em 9 de Junho, 2023)
-- [chatgpt](https://github.com/diogo2806/chatgpt) - Projeto em Python (Atualizado em 27 de Fevereiro, 2023)
-- [casadosdadosWebScraping](https://github.com/diogo2806/casadosdadosWebScraping) - Projeto em Python (Atualizado em 27 de Fevereiro, 2023)
+- Desenvolver e evoluir APIs REST com Java, Spring Boot, Spring Security e JPA/Hibernate.
+- Traduzir regras de negócio em funcionalidades, integrações e consultas SQL.
+- Trabalhar na manutenção de sistemas existentes e na construção de novas aplicações.
+- Aplicar testes automatizados e experiência em QA para investigar falhas e prevenir regressões.
+- Conectar backend e frontend, acompanhando o fluxo completo de uma funcionalidade.
 
-## 📫 Como entrar em contato comigo
+## Tecnologias
 
-Você pode me alcançar via [WhatsApp](https://wa.me/5521967081952) ou me enviar um e-mail para diogo.01501@gmail.com. Fique à vontade para conferir meus cursos na [Alura](https://cursos.alura.com.br/user/diogo-01501) ou os meus projetCom base nas informações do seu currículo, aqui está uma sugestão de como você pode melhorar seu README no GitHub:
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, JPA/Hibernate, Groovy |
+| Dados | PostgreSQL, Oracle, SQL, Flyway |
+| Frontend | React, TypeScript, Next.js, JSF, PrimeFaces |
+| Qualidade | JUnit, Mockito, Selenium, Cypress |
+| Entrega | Git, Maven, Docker, OpenShift |
+| Arquitetura e integrações | APIs REST, microsserviços, SOLID, padrões de projeto, MCP |
 
-Como pessoa com deficiência (PCD, CID-10 H54.4), acredito fortemente na diversidade e inclusão no ambiente de trabalho. Estou sempre em busca de oportunidades desafiadoras para aplicar minhas habilidades e contribuir para soluções inovadoras.
+## Projetos para conhecer meu trabalho
 
-Estou ansioso para colaborar e aprender com outros desenvolvedores, então sinta-se à vontade para entrar em contato!
+### [Privacy Guard](https://github.com/diogo2806/t3-privacy-guard)
 
+Camada de controle entre agentes de IA e os sistemas em que eles executam ações. O projeto separa proposta, autorização humana, execução e verificação do resultado.
+
+- Backend em Java 21 e Spring Boot, com dashboard em React e TypeScript.
+- Integração via MCP, políticas de acesso e trilhas de auditoria.
+- Serviços separados para aplicação e execução controlada, com configuração Docker.
+
+Uma amostra do meu trabalho com arquitetura backend, integrações e governança de ações de IA. O README apresenta a arquitetura, as instruções de execução e as limitações atuais.
+
+### [iLuau](https://github.com/diogo2806/iluau)
+
+Plugin que conecta o Roblox Studio ao Codex por meio de um servidor MCP local.
+
+- Inspeção de objetos e edição de propriedades, atributos e tags.
+- Painel no Studio, dashboard local e fila de tarefas.
+- Integração entre Node.js, Lua e ferramentas de IA.
+
+Uma amostra de integração entre ferramentas e automação aplicada ao fluxo de desenvolvimento.
+
+### [Alura Food](https://github.com/diogo2806/alura-food)
+
+Projeto de estudo de microsserviços com Java e Spring. Faz parte da minha formação prática em desenvolvimento backend e arquitetura de serviços.
+
+## Experiência que levo para o desenvolvimento
+
+Minha trajetória inclui desenvolvimento Java na IBROWSE e atuação na Sepetiba Tecon, com participação na implantação do Navis N4, desenvolvimento em Java/Groovy e automação de testes.
+
+Também servi como sargento no Exército Brasileiro, experiência que contribuiu para minha disciplina, organização e trabalho em equipe.
+
+## Formação e aprendizado
+
+- Pós-graduação em Desenvolvimento de Aplicações Web.
+- Pós-graduação em Big Data e Ciência de Dados.
+- Pós-graduação em Gestão de Pessoas e Recursos Humanos.
+- Formação complementar em Java, Spring, arquitetura de software, microsserviços e QA.
+
+[Veja meu perfil de cursos na Alura](https://cursos.alura.com.br/user/diogo-01501).
+
+## Vamos conversar?
+
+Tenho interesse em oportunidades como Desenvolvedor Java Sênior e em desafios de liderança técnica com atuação no código, no modelo 100% remoto.
+
+Sou profissional PCD e valorizo ambientes acessíveis, colaboração e comunicação clara.
+
+📧 [diogo.01501@gmail.com](mailto:diogo.01501@gmail.com)  
+💬 [WhatsApp](https://wa.me/5521967081952)
