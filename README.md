@@ -23,6 +23,25 @@ Sou desenvolvedor Java Sênior com experiência em sistemas governamentais, log�
 
 Minha trajetória reúne desenvolvimento, liderança de QA e atuação entre operação e TI. Participei da implantação do Navis N4 e desenvolvo produtos para saúde, educação, recrutamento e gestão. Busco desafios como Java Sênior e Tech Lead com participação no código, em modelo 100% remoto.
 
+### Atividade e tecnologias no GitHub
+
+<p align="center">
+  <a href="https://github.com/diogo2806?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=diogo2806&amp;theme=dark&amp;locale=pt_BR&amp;background=101B27&amp;border=30465C&amp;ring=72E0CB&amp;fire=72E0CB" width="420" alt="Contribuições do perfil, sequência atual e maior sequência de dias com atividade. Gráfico atualizado automaticamente.">
+  </a>
+  <a href="https://github.com/diogo2806?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diogo2806&amp;layout=compact&amp;langs_count=8&amp;bg_color=101B27&amp;title_color=72E0CB&amp;text_color=C0CFDE&amp;border_color=30465C&amp;border_radius=12&amp;locale=pt-br&amp;custom_title=Linguagens%20nos%20repositorios%20publicos" width="420" alt="Distribuição de linguagens nos repositórios públicos de Diogo, atualizada automaticamente.">
+  </a>
+</p>
+
+#### Calendário de contribuições
+
+<a href="https://github.com/diogo2806?tab=overview">
+  <img src="https://ghchart.rshah.org/159A83/diogo2806" width="100%" alt="Calendário anual de contribuições visíveis no perfil do GitHub, atualizado automaticamente.">
+</a>
+
+Os gráficos se atualizam automaticamente. As linguagens refletem o código público; os principais produtos privados estão apresentados no portfólio abaixo.
+
 ## Portfólio
 
 ### 15 projetos em destaque
