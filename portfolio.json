@@ -15,16 +15,7 @@
       ],
       "focus": "Domínios operacionais e regras logísticas",
       "reason": "Amplitude funcional, limites de domínio e testes de regressão.",
-      "detail": "Gate, inventário, pátio, ferrovia, navios e faturamento.",
-      "stats": {
-        "java_files": 2114,
-        "java_test_files": 434,
-        "web_test_files": 451,
-        "test_files": 885,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "7e67da0f3ce3df2a6ecdf6a04177a5b4dffffa5a"
-      }
+      "detail": "Gate, inventário, pátio, ferrovia, navios e faturamento."
     },
     {
       "rank": 2,
@@ -39,16 +30,7 @@
       ],
       "focus": "Versionamento, auditoria e outbox",
       "reason": "Versionamento imutável, integrações e testes de fluxos e permissões.",
-      "detail": "Jornadas por competência, relatórios e integração com Gupy e Recrutei.",
-      "stats": {
-        "java_files": 1324,
-        "java_test_files": 436,
-        "web_test_files": 238,
-        "test_files": 674,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "8403fc1e0348e7cc73e332eaa50e2b876dffc168"
-      }
+      "detail": "Jornadas por competência, relatórios e integração com Gupy e Recrutei."
     },
     {
       "rank": 3,
@@ -63,16 +45,7 @@
       ],
       "focus": "Multi-tenancy, acessibilidade e analytics",
       "reason": "Isolamento empresarial, consentimentos, cobrança e jornadas acessíveis.",
-      "detail": "Avaliação, vieses inconscientes e permanência no ecossistema DiverSCInnova.",
-      "stats": {
-        "java_files": 1284,
-        "java_test_files": 367,
-        "web_test_files": 231,
-        "test_files": 598,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "1954901166baf642f3f9c9ebb6820d1b4056debe"
-      }
+      "detail": "Avaliação, vieses inconscientes e permanência no ecossistema DiverSCInnova."
     },
     {
       "rank": 4,
@@ -87,16 +60,7 @@
       ],
       "focus": "Fluxos clínicos, permissões e concorrência",
       "reason": "Profundidade dos fluxos clínicos, concorrência e testes de autorização.",
-      "detail": "Agenda, atendimento, documentos, laboratórios e rotinas financeiras.",
-      "stats": {
-        "java_files": 1034,
-        "java_test_files": 338,
-        "web_test_files": 202,
-        "test_files": 540,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "e658b25aaa1b0d9f3607bc739c32b0da5fee265e"
-      }
+      "detail": "Agenda, atendimento, documentos, laboratórios e rotinas financeiras."
     },
     {
       "rank": 5,
@@ -111,16 +75,7 @@
       ],
       "focus": "Regras acadêmicas e acesso por contexto",
       "reason": "Regras acadêmicas, permissões e relatórios com contexto escolar.",
-      "detail": "Matrículas, diários, avaliações em rede e acompanhamento pedagógico.",
-      "stats": {
-        "java_files": 408,
-        "java_test_files": 106,
-        "web_test_files": 14,
-        "test_files": 120,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "1b34320cf51f6992950f5ddb3357774ca136744f"
-      }
+      "detail": "Matrículas, diários, avaliações em rede e acompanhamento pedagógico."
     },
     {
       "rank": 6,
@@ -135,16 +90,7 @@
       ],
       "focus": "Histórico, evidências e identidade única",
       "reason": "Rastreabilidade de evidências, fluxos persistidos e testes de regressão.",
-      "detail": "Protocolos pessoais, evidências, prazos e dossiês sob uma identidade única.",
-      "stats": {
-        "java_files": 834,
-        "java_test_files": 215,
-        "web_test_files": 148,
-        "test_files": 363,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "670db2863ab98bb0930a3b6d955b7eff0b29b709"
-      }
+      "detail": "Protocolos pessoais, evidências, prazos e dossiês sob uma identidade única."
     },
     {
       "rank": 7,
@@ -159,16 +105,7 @@
       ],
       "focus": "Ordens de serviço e escopo por município",
       "reason": "Operação com múltiplos perfis, auditoria e testes de isolamento.",
-      "detail": "Chamados, triagem, ordens de serviço, equipes e ativos públicos.",
-      "stats": {
-        "java_files": 797,
-        "java_test_files": 95,
-        "web_test_files": 77,
-        "test_files": 172,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "a701583d78076cb4dfbcb4a0b7857fed835b128e"
-      }
+      "detail": "Chamados, triagem, ordens de serviço, equipes e ativos públicos."
     },
     {
       "rank": 8,
@@ -183,16 +120,7 @@
       ],
       "focus": "Core compartilhado e rastreabilidade",
       "reason": "Core modular e cobertura de fluxos operacionais; evolução incremental.",
-      "detail": "Organização, almoxarifado, patrimônio, licitações, contratos, frotas e serviços.",
-      "stats": {
-        "java_files": 783,
-        "java_test_files": 163,
-        "web_test_files": 180,
-        "test_files": 343,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "6ccf24ab07f8fd68b29414d821494b08d2420671"
-      }
+      "detail": "Organização, almoxarifado, patrimônio, licitações, contratos, frotas e serviços."
     },
     {
       "rank": 9,
@@ -207,16 +135,7 @@
       ],
       "focus": "Métricas, eventos e confiança da análise",
       "reason": "Modelagem de eventos esportivos, análise contextual e testes versionados.",
-      "detail": "Scouting, partidas, jogadores e indicadores de desempenho no futebol.",
-      "stats": {
-        "java_files": 774,
-        "java_test_files": 105,
-        "web_test_files": 25,
-        "test_files": 130,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "4c5779d2ec16cf36182a1f64e4da9ee8930c6a2b"
-      }
+      "detail": "Scouting, partidas, jogadores e indicadores de desempenho no futebol."
     },
     {
       "rank": 10,
@@ -231,16 +150,7 @@
       ],
       "focus": "Webhooks, idempotência e auditoria",
       "reason": "Integração financeira, contratos de entrega e testes de webhook.",
-      "detail": "Catálogo, pedidos, checkout hospedado, eventos e entrega de créditos.",
-      "stats": {
-        "java_files": 257,
-        "java_test_files": 98,
-        "web_test_files": 53,
-        "test_files": 151,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "629e6d131f0017ef50465458a7759d83949d9c30"
-      }
+      "detail": "Catálogo, pedidos, checkout hospedado, eventos e entrega de créditos."
     },
     {
       "rank": 11,
@@ -255,16 +165,7 @@
       ],
       "focus": "API, extensão e pesquisas versionadas",
       "reason": "Integração entre API, Studio e extensão; testes backend e frontend.",
-      "detail": "Studio, extensão Chrome, participação web, pesquisas e comunidade.",
-      "stats": {
-        "java_files": 624,
-        "java_test_files": 139,
-        "web_test_files": 126,
-        "test_files": 265,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "43ea52485d66f7d333a8a7f57baa2cebca310e9f"
-      }
+      "detail": "Studio, extensão Chrome, participação web, pesquisas e comunidade."
     },
     {
       "rank": 12,
@@ -279,16 +180,7 @@
       ],
       "focus": "Campanhas, contratos e pagamentos",
       "reason": "Ciclo de campanhas, perfis de acesso e regras de colaboração.",
-      "detail": "Campanhas, propostas, contratos, pagamentos, mensagens e marketplace.",
-      "stats": {
-        "java_files": 364,
-        "java_test_files": 52,
-        "web_test_files": 48,
-        "test_files": 100,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "b9227ea2bb83c1340bbf8c10737c510ac85a07f3"
-      }
+      "detail": "Campanhas, propostas, contratos, pagamentos, mensagens e marketplace."
     },
     {
       "rank": 13,
@@ -303,16 +195,7 @@
       ],
       "focus": "Escopo comercial e provisionamento",
       "reason": "Integração com produtos, autorização por recurso e testes de jornada.",
-      "detail": "Clientes, pipeline, propostas, pedidos, contratos e comissões.",
-      "stats": {
-        "java_files": 109,
-        "java_test_files": 117,
-        "web_test_files": 58,
-        "test_files": 175,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "b6e1f38800fd58da2a8860953cc00e44657b81b8"
-      }
+      "detail": "Clientes, pipeline, propostas, pedidos, contratos e comissões."
     },
     {
       "rank": 14,
@@ -327,16 +210,7 @@
       ],
       "focus": "Permissões, versões e compartilhamento",
       "reason": "Integração entre protocolos de arquivo e controle de acesso persistido.",
-      "detail": "Arquivos, versões, lixeira e compartilhamento. Não é uma API AWS S3 compatível.",
-      "stats": {
-        "java_files": 135,
-        "java_test_files": 46,
-        "web_test_files": 0,
-        "test_files": 46,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "62f0299a1f47c6af7a4a29c60d89b5eb7822c053"
-      }
+      "detail": "Arquivos, versões, lixeira e compartilhamento. Não é uma API AWS S3 compatível."
     },
     {
       "rank": 15,
@@ -351,23 +225,22 @@
       ],
       "focus": "Identidade, anexos e webhooks assinados",
       "reason": "Identidade corporativa, armazenamento e validação de eventos recebidos.",
-      "detail": "Domínios, caixas, mensagens e anexos com integração ao iForce Comercial.",
-      "stats": {
-        "java_files": 360,
-        "java_test_files": 90,
-        "web_test_files": 64,
-        "test_files": 154,
-        "snapshot_date": "2026-11-07",
-        "source_ref": "main",
-        "source_snapshot_sha": "dc3e47079f412c85f86ef5376b5dc29564fd621a"
-      }
+      "detail": "Domínios, caixas, mensagens e anexos com integração ao iForce Comercial."
+    },
+    {
+      "rank": 16,
+      "name": "Lastro",
+      "repo": "lastro",
+      "sector": "CONTRATOS & RENTABILIDADE",
+      "desc": "Rentabilidade, risco e renegociação de contratos com simulações financeiras.",
+      "tech": [
+        "Java 21",
+        "Spring Boot",
+        "React"
+      ],
+      "focus": "Margens, tributação e isolamento por empresa",
+      "reason": "Regras financeiras, classificação de risco e isolamento de dados com testes.",
+      "detail": "Custos, simulações de margem, risco e histórico de renegociação de contratos."
     }
-  ],
-  "metrics": {
-    "snapshot_date": "2026-11-07",
-    "refresh": "snapshot atualizado ao revisar o portfólio; não usa GitHub Actions",
-    "java_files": "Arquivos .java sob src/main/java.",
-    "test_files": "Arquivos .java sob src/test, incluindo apoio aos testes, somados a arquivos JS/TS com sufixo .test/.spec ou sob __tests__. Exclui node_modules, dist, build e target dos testes JS/TS.",
-    "interpretation": "Contagem de arquivos versionados; não representa casos de teste executados nem percentual de cobertura."
-  }
+  ]
 }
