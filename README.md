@@ -27,10 +27,10 @@ Minha trajetória reúne desenvolvimento, liderança de QA e atuação entre ope
 
 <p align="center">
   <a href="https://github.com/diogo2806?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=diogo2806&amp;theme=dark&amp;locale=pt_BR&amp;background=101B27&amp;border=30465C&amp;ring=72E0CB&amp;fire=72E0CB" width="420" alt="Contribuições do perfil, sequência atual e maior sequência de dias com atividade. Gráfico atualizado automaticamente.">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=diogo2806&amp;theme=dark&amp;locale=pt_BR&amp;hide_border=true&amp;background=101B27&amp;ring=72E0CB&amp;fire=72E0CB&amp;disable_animations=true" width="420" alt="Contribuições do perfil, sequência atual e maior sequência de dias com atividade. Gráfico atualizado automaticamente.">
   </a>
   <a href="https://github.com/diogo2806?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diogo2806&amp;layout=compact&amp;langs_count=8&amp;bg_color=101B27&amp;title_color=72E0CB&amp;text_color=C0CFDE&amp;border_color=30465C&amp;border_radius=12&amp;locale=pt-br&amp;custom_title=Linguagens%20nos%20repositorios%20publicos" width="420" alt="Distribuição de linguagens nos repositórios públicos de Diogo, atualizada automaticamente.">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diogo2806&amp;layout=compact&amp;langs_count=8&amp;bg_color=101B27&amp;title_color=72E0CB&amp;text_color=C0CFDE&amp;border_color=30465C&amp;border_radius=12&amp;locale=pt-br&amp;custom_title=Linguagens%20publicas&amp;disable_animations=true" width="420" alt="Distribuição de linguagens nos repositórios públicos de Diogo, atualizada automaticamente.">
   </a>
 </p>
 
