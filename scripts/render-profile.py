@@ -121,7 +121,8 @@ for i in range(0, len(PROJECTS), 2):
 readme = ROOT / 'README.md'
 pattern = r'(?:https://raw\.githubusercontent\.com/diogo2806/diogo2806/[0-9a-f]{40}/assets/|\./assets/)((?:projects-\d{2}|hero)(?:-mobile)?)(?:-[0-9a-f]{12})?\.svg'
 updated, references = re.subn(pattern, lambda match: f'./assets/{match[1]}-{ASSET_REVISION}.svg', readme.read_text())
-assert references == 18, f'Esperadas 18 imagens da capa e projetos; encontradas {references}'
+dynamic = len(re.findall(r'(?:src|srcset)="https://[^"\s]+/rows/0[1-8](?:-mobile)?\.svg"', updated))
+assert references == 18 or (references == 2 and dynamic == 16), f'Imagens inconsistentes: {references} locais e {dynamic} dinâmicas'
 readme.write_text(updated)
 
 for name, label, color in [('linkedin', 'LinkedIn', '#184966'), ('email', 'E-mail', '#23364A'), ('whatsapp', 'WhatsApp', '#245348')]:
