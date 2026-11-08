@@ -51,43 +51,43 @@ A ordem considera profundidade funcional, arquitetura, integrações e evidênci
 Os cartões mostram arquivos Java do backend e arquivos de teste versionados, contados em 07/11/2026.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-01-mobile.svg">
-  <img src="./assets/projects-01.svg" width="100%" alt="01. CloudPort: Gate, pátio, ferrovia e planejamento de navios em uma plataforma modular. Domínios operacionais e regras logísticas. | 02. Práxis: Avaliações situacionais com pontuação determinística e integrações com ATS. Versionamento, auditoria e outbox. CloudPort: 2114 arquivos Java, 885 arquivos de teste. Práxis: 1324 arquivos Java, 674 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-01-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-01.svg" width="100%" alt="01. CloudPort: Gate, pátio, ferrovia e planejamento de navios em uma plataforma modular. Domínios operacionais e regras logísticas. | 02. Práxis: Avaliações situacionais com pontuação determinística e integrações com ATS. Versionamento, auditoria e outbox. CloudPort: 2114 arquivos Java, 885 arquivos de teste. Práxis: 1324 arquivos Java, 674 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-02-mobile.svg">
-  <img src="./assets/projects-02.svg" width="100%" alt="03. AIA Champions: Jornadas gamificadas de avaliação, cultura e indicadores de permanência. Multi-tenancy, acessibilidade e analytics. | 04. iClinicaDx: Gestão de clínicas e laboratórios, da agenda aos documentos e ao financeiro. Fluxos clínicos, permissões e concorrência. AIA Champions: 1284 arquivos Java, 598 arquivos de teste. iClinicaDx: 1034 arquivos Java, 540 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-02-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-02.svg" width="100%" alt="03. AIA Champions: Jornadas gamificadas de avaliação, cultura e indicadores de permanência. Multi-tenancy, acessibilidade e analytics. | 04. iClinicaDx: Gestão de clínicas e laboratórios, da agenda aos documentos e ao financeiro. Fluxos clínicos, permissões e concorrência. AIA Champions: 1284 arquivos Java, 598 arquivos de teste. iClinicaDx: 1034 arquivos Java, 540 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-03-mobile.svg">
-  <img src="./assets/projects-03.svg" width="100%" alt="05. KRINO: Secretaria escolar, diário de classe e avaliações conectados na mesma rede. Regras acadêmicas e acesso por contexto. | 06. UniHub: ProtocolGuard organiza protocolos, documentos, acontecimentos e prazos. Histórico, evidências e identidade única. KRINO: 408 arquivos Java, 120 arquivos de teste. UniHub: 834 arquivos Java, 363 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-03-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-03.svg" width="100%" alt="05. KRINO: Secretaria escolar, diário de classe e avaliações conectados na mesma rede. Regras acadêmicas e acesso por contexto. | 06. UniHub: ProtocolGuard organiza protocolos, documentos, acontecimentos e prazos. Histórico, evidências e identidade única. KRINO: 408 arquivos Java, 120 arquivos de teste. UniHub: 834 arquivos Java, 363 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-04-mobile.svg">
-  <img src="./assets/projects-04.svg" width="100%" alt="07. Guardião: Chamados e manutenção de ativos públicos conectando cidadão e gestão. Ordens de serviço e escopo por município. | 08. KHORA: Core corporativo e módulos de estoque, patrimônio, contratos e frotas. Core compartilhado e rastreabilidade. Guardião: 797 arquivos Java, 172 arquivos de teste. KHORA: 783 arquivos Java, 343 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-04-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-04.svg" width="100%" alt="07. Guardião: Chamados e manutenção de ativos públicos conectando cidadão e gestão. Ordens de serviço e escopo por município. | 08. KHORA: Core corporativo e módulos de estoque, patrimônio, contratos e frotas. Core compartilhado e rastreabilidade. Guardião: 797 arquivos Java, 172 arquivos de teste. KHORA: 783 arquivos Java, 343 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-05-mobile.svg">
-  <img src="./assets/projects-05.svg" width="100%" alt="09. Prancheta: Scouting e análise de desempenho no futebol com contexto e indicadores. Métricas, eventos e confiança da análise. | 10. iForce Billing: Central de checkout, pagamentos e entrega de créditos para múltiplos SaaS. Webhooks, idempotência e auditoria. Prancheta: 774 arquivos Java, 130 arquivos de teste. iForce Billing: 257 arquivos Java, 151 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-05-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-05.svg" width="100%" alt="09. Prancheta: Scouting e análise de desempenho no futebol com contexto e indicadores. Métricas, eventos e confiança da análise. | 10. iForce Billing: Central de checkout, pagamentos e entrega de créditos para múltiplos SaaS. Webhooks, idempotência e auditoria. Prancheta: 774 arquivos Java, 130 arquivos de teste. iForce Billing: 257 arquivos Java, 151 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-06-mobile.svg">
-  <img src="./assets/projects-06.svg" width="100%" alt="11. Bora Interagir!: Avaliações, pesquisas e participação da audiência em vídeos do YouTube. API, extensão e pesquisas versionadas. | 12. InfluConnect: Conecta marcas, influenciadores e agências na gestão de campanhas. Campanhas, contratos e pagamentos. Bora Interagir!: 624 arquivos Java, 265 arquivos de teste. InfluConnect: 364 arquivos Java, 100 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-06-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-06.svg" width="100%" alt="11. Bora Interagir!: Avaliações, pesquisas e participação da audiência em vídeos do YouTube. API, extensão e pesquisas versionadas. | 12. InfluConnect: Conecta marcas, influenciadores e agências na gestão de campanhas. Campanhas, contratos e pagamentos. Bora Interagir!: 624 arquivos Java, 265 arquivos de teste. InfluConnect: 364 arquivos Java, 100 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-07-mobile.svg">
-  <img src="./assets/projects-07.svg" width="100%" alt="13. iForce Comercial: Clientes, oportunidades, propostas e contratos para um ecossistema SaaS. Escopo comercial e provisionamento. | 14. S3gram: Workspace de arquivos com acesso web, SFTP e WebDAV sobre storage Telegram. Permissões, versões e compartilhamento. iForce Comercial: 109 arquivos Java, 175 arquivos de teste. S3gram: 135 arquivos Java, 46 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-07-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-07.svg" width="100%" alt="13. iForce Comercial: Clientes, oportunidades, propostas e contratos para um ecossistema SaaS. Escopo comercial e provisionamento. | 14. S3gram: Workspace de arquivos com acesso web, SFTP e WebDAV sobre storage Telegram. Permissões, versões e compartilhamento. iForce Comercial: 109 arquivos Java, 175 arquivos de teste. S3gram: 135 arquivos Java, 46 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/projects-08-mobile.svg">
-  <img src="./assets/projects-08.svg" width="100%" alt="15. iForce Mail: Caixas de e-mail corporativas e integração com a operação comercial. Identidade, anexos e webhooks assinados. iForce Mail: 360 arquivos Java, 154 arquivos de teste. Métricas em 07/11/2026.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-08-mobile.svg">
+  <img src="https://raw.githubusercontent.com/diogo2806/diogo2806/2f42701935fef3b68a54a5ac34615f053c4e4db9/assets/projects-08.svg" width="100%" alt="15. iForce Mail: Caixas de e-mail corporativas e integração com a operação comercial. Identidade, anexos e webhooks assinados. iForce Mail: 360 arquivos Java, 154 arquivos de teste. Métricas em 07/11/2026.">
 </picture>
 
 Os códigos desses 15 produtos são privados. Posso conversar sobre minha participação, os desafios e as decisões técnicas pelo [LinkedIn](https://www.linkedin.com/in/diogo-santos-044b40b4/).
